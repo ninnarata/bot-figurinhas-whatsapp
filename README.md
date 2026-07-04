@@ -54,7 +54,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     <tr>
       <td align="left"><strong>Resolução da Figurinha</strong></td>
       <td align="left">Resolução padrão compactada</td>
-      <td align="left"><strong>Nitidez máxima de pixel com cores vibrantes</strong></td>
+      <td align="left"><strong>Resolução padrão</strong></td>
     </tr>
     <tr>
       <td align="left"><strong>Duração da Animação</strong></td>
