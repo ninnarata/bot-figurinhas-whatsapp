@@ -38,11 +38,11 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     <tr>
       <td align="left"><strong>Comparativo Visual</strong></td>
       <td align="center">
-        <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="140" autoplay loop muted playsinline></video>
+        <video src="https://ninnarata.com.br/figurinhas_site/comparison_free.mp4" width="140" autoplay loop muted playsinline></video>
         <p><em>Compressão básica.</em></p>
       </td>
       <td align="center">
-        <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="140" autoplay loop muted playsinline></video>
+        <video src="https://ninnarata.com.br/figurinhas_site/comparison_vip.mp4" width="140" autoplay loop muted playsinline></video>
         <p><em>Compressão com NinnaRender Engine.</em></p>
       </td>
     </tr>
@@ -53,7 +53,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     </tr>
     <tr>
       <td align="left"><strong>Resolução da Figurinha</strong></td>
-      <td align="left">Resolução compactada</td>
+      <td align="left">Resolução padrão compactada</td>
       <td align="left"><strong>Resolução padrão</strong></td>
     </tr>
     <tr>
@@ -78,15 +78,6 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     </tr>
   </tbody>
 </table>
-
-| Recurso | Plano Grátis | Plano VIP 👑 |
-| :--- | :--- | :--- |
-| **Bordas e Transparência** | Recorte padrão | **Recorte cirúrgico sem bordas brancas ou defeitos** |
-| **Resolução da Figurinha** | Resolução padrão compactada | **Nitidez máxima de pixel com cores vibrantes** |
-| **Duração da Animação** | Até 5 segundos | **Até 8 segundos completos** |
-| **Fluidez de Quadros** | Quadros de compressão básica | **Frame rate original completo e fluido** |
-| **Marca d'água** | Figurinhas com assinatura | **Stickers 100% limpos e profissionais** |
-| **Fila de Processamento** | Fila de espera comum | **Fila Ultra Rápida Prioritária** |
 
 ---
 
