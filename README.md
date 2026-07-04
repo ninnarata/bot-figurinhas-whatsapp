@@ -28,12 +28,12 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <h3>Plano Gratuito</h3>
       <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="80" autoplay loop muted playsinline></video>
       <p><em>Compressão básica.</em></p>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="150">
       <h3>Plano VIP 👑</h3>
       <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="80" autoplay loop muted playsinline></video>
       <p><em>Compressão com NinnaRender Engine.</em></p>
