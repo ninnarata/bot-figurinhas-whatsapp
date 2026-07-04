@@ -30,12 +30,12 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
   <tr>
     <td align="center" width="50%">
       <h3>Plano Gratuito</h3>
-      <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="100" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="80" autoplay loop muted playsinline></video>
       <p><em>Compressão padrão com pequenos resíduos de borda branca nas animações.</em></p>
     </td>
     <td align="center" width="50%">
       <h3>Plano VIP 👑</h3>
-      <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="100" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="80" autoplay loop muted playsinline></video>
       <p><em>Corte cirúrgico ultra-nítido, cores vivas e fluidez máxima de quadros (NinnaRender Engine).</em></p>
     </td>
   </tr>
