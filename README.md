@@ -53,7 +53,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     </tr>
     <tr>
       <td align="left"><strong>Resolução da Figurinha</strong></td>
-      <td align="left">Resolução padrão compactada</td>
+      <td align="left">Resolução compactada</td>
       <td align="left"><strong>Resolução padrão</strong></td>
     </tr>
     <tr>
