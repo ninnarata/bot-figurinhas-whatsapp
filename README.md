@@ -26,16 +26,17 @@ O Bot da Ninna Rata é um chatbot inteligente focado exclusivamente em criar fig
 ## 💎 Comparativo de Qualidade: Grátis vs. VIP (NinnaRender Engine)
 Veja a comparação real das figurinhas geradas pelo processamento padrão do plano gratuito vs. o processamento profissional da minha engine VIP:
 
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="150">
+    <td width="20%"></td>
+    <td align="center" width="40%">
       <h3>Plano Gratuito</h3>
-      <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="100" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="180" autoplay loop muted playsinline></video>
       <p><em>Compressão básica.</em></p>
     </td>
-    <td align="center" width="150">
+    <td align="center" width="40%">
       <h3>Plano VIP 👑</h3>
-      <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="100" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="180" autoplay loop muted playsinline></video>
       <p><em>Compressão com NinnaRender Engine.</em></p>
     </td>
   </tr>
