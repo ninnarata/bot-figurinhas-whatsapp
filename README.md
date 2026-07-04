@@ -27,18 +27,56 @@ O Bot da Ninna Rata é um chatbot inteligente focado exclusivamente em criar fig
 Veja a comparação real das figurinhas geradas pelo processamento padrão do plano gratuito vs. o processamento profissional da minha engine VIP:
 
 <table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>Plano Gratuito</h3>
-      <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="180" autoplay loop muted playsinline></video>
-      <p><em>Compressão básica.</em></p>
-    </td>
-    <td align="center" width="50%">
-      <h3>Plano VIP 👑</h3>
-      <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="180" autoplay loop muted playsinline></video>
-      <p><em>Compressão com NinnaRender Engine.</em></p>
-    </td>
-  </tr>
+  <thead>
+    <tr>
+      <th width="20%" align="left">Recurso</th>
+      <th width="40%" align="center">Plano Grátis</th>
+      <th width="40%" align="center">Plano VIP 👑</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><strong>Comparativo Visual</strong></td>
+      <td align="center">
+        <video src="https://github.com/user-attachments/assets/2165d382-802e-4a14-a90b-e65e104313be" width="140" autoplay loop muted playsinline></video>
+        <p><em>Compressão básica.</em></p>
+      </td>
+      <td align="center">
+        <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="140" autoplay loop muted playsinline></video>
+        <p><em>Compressão com NinnaRender Engine.</em></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Bordas e Transparência</strong></td>
+      <td align="left">Recorte padrão</td>
+      <td align="left"><strong>Recorte cirúrgico sem bordas brancas ou defeitos</strong></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Resolução da Figurinha</strong></td>
+      <td align="left">Resolução padrão compactada</td>
+      <td align="left"><strong>Nitidez máxima de pixel com cores vibrantes</strong></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Duração da Animação</strong></td>
+      <td align="left">Até 5 segundos</td>
+      <td align="left"><strong>Até 8 segundos completos</strong></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Fluidez de Quadros</strong></td>
+      <td align="left">Quadros de compressão básica</td>
+      <td align="left"><strong>Frame rate original completo e fluido</strong></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Marca d'água</strong></td>
+      <td align="left">Figurinhas com assinatura</td>
+      <td align="left"><strong>Stickers 100% limpos e profissionais</strong></td>
+    </tr>
+    <tr>
+      <td align="left"><strong>Fila de Processamento</strong></td>
+      <td align="left">Fila de espera comum</td>
+      <td align="left"><strong>Fila Ultra Rápida Prioritária</strong></td>
+    </tr>
+  </tbody>
 </table>
 
 | Recurso | Plano Grátis | Plano VIP 👑 |
