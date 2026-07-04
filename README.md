@@ -39,7 +39,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
       <p><em>Compressão com NinnaRender Engine.</em></p>
     </td>
   </tr>
-</table>
+</table> 
 
 | Recurso | Plano Grátis | Plano VIP 👑 |
 | :--- | :--- | :--- |
