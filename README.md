@@ -36,7 +36,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
     <td align="center" width="50%">
       <h3>Plano VIP 👑</h3>
       <video src="https://github.com/user-attachments/assets/9b5839a3-5cb7-454d-a5c8-846d576f753c" width="80" autoplay loop muted playsinline></video>
-      <p><em>Corte cirúrgico ultra-nítido, cores vivas e fluidez máxima de quadros (NinnaRender Engine).</em></p>
+      <p><em>Compressão com NinnaRender Engine.</em></p>
     </td>
   </tr>
 </table>
