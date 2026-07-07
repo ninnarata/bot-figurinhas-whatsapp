@@ -14,8 +14,8 @@ Em busca de figurinhas de maior qualidade possível, desenvolvi a **NinnaRender 
 
 ---
 
-## ⚡ Como funciona o Bot de Figurinhas para WhatsApp?
-O Bot da Ninna Rata é um chatbot inteligente focado exclusivamente em criar figurinhas para WhatsApp. Diferente de outros bots multifuncionais que tentam fazer de tudo mas pecam no acabamento, a Ninna Rata foca no que realmente importa: entregar a melhor qualidade visual para os seus stickers. Você só precisa enviar a sua mídia e o bot devolve a figurinha pronta na hora.
+## ⚡ Como funciona o Bot da Ninna Rata?
+O Bot da Ninna Rata é um chatbot inteligente focado exclusivamente em criar figurinhas para WhatsApp. Diferente de outros bots multifuncionais que tentam fazer de tudo mas pecam no principal, o Bot da Ninna Rata foca no que realmente importa: entregar a melhor qualidade visual para os seus stickers. Você só precisa enviar a sua mídia e o bot devolve a figurinha pronta na hora.
 
 * **Fotos em Figurinhas:** Envie qualquer foto da galeria e receba a figurinha estática sem bordas brancas.
 * **Vídeos e GIFs em Figurinhas Animadas:** Envie um vídeo ou GIF de até 8 segundos (caso a mídia seja maior, o bot pegará automaticamente os primeiros segundos) e receba o sticker animado fluido.
