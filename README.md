@@ -10,7 +10,7 @@ O melhor **bot de figurinhas gratuito para WhatsApp**, o **Bot da Ninna Rata**. 
 ## 💅 O que é o Bot da Ninna Rata?
 O Bot da Ninna Rata nasceu da minha paixão obstinada por memes e qualidade visual. Cansada de bots de figurinhas lentos, cheios de propagandas ou que quebram a transparência dos GIFs, decidi criar um bot feito para **quem quer algo que funcione de verdade**, tenha suporte ativo e preserve a estética dos memes.
 
-Em busca de figurinhas de maior qualidade possível, desenvolvi a **NinnaRender Engine**, minha própria tecnologia exclusiva de processamento de imagem e vídeo. Ela garante recortes cirúrgicos, cores vibrantes e animações incrivelmente fluidas para suas figurinhas.
+Em busca de figurinhas de maior qualidade possível, desenvolvi a **NinnaRender Engine**, minha própria tecnologia exclusiva de processamento de imagem e vídeo. Ela garante recortes cirúrgicos, compressão premium e animações incrivelmente fluidas para suas figurinhas.
 
 ---
 
