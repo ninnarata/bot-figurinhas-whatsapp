@@ -1,13 +1,13 @@
-# Ninna Rata 💅🐀 | Bot de Figurinhas para WhatsApp (Grátis e VIP)
+# Bot da Ninna Rata 💅🐀 | Bot de Figurinhas para WhatsApp (Grátis e VIP)
 
-O melhor **bot de figurinhas gratuito para WhatsApp**. Crie figurinhas estáticas e animadas sem bordas brancas de alta qualidade direto no chat em menos de 2 segundos. Sem baixar aplicativos, sem anúncios irritantes e feito por quem realmente ama a cultura de memes da internet.
+O melhor **bot de figurinhas gratuito para WhatsApp**, o **Bot da Ninna Rata**. Crie figurinhas estáticas e animadas sem bordas brancas de alta qualidade direto no chat em menos de 2 segundos. Sem baixar aplicativos, sem anúncios irritantes e feito por quem realmente ama a cultura de memes da internet.
 
 👉 **[Clique aqui para começar a criar no WhatsApp](https://ninnarata.com.br/s?utm_source=github&utm_medium=readme)**  
 👉 **[Visite o Site Oficial: ninnarata.com.br](https://ninnarata.com.br/?utm_source=github&utm_medium=readme)**
 
 ---
 
-## 💅 O que é o Bot de figurinhas da Ninna Rata?
+## 💅 O que é o Bot da Ninna Rata?
 O Bot da Ninna Rata nasceu da minha paixão obstinada por memes e qualidade visual. Cansada de bots de figurinhas lentos, cheios de propagandas ou que quebram a transparência dos GIFs, decidi criar um bot feito para **quem quer algo que funcione de verdade**, tenha suporte ativo e preserve a estética dos memes.
 
 Em busca de figurinhas de maior qualidade possível, desenvolvi a **NinnaRender Engine**, minha própria tecnologia exclusiva de processamento de imagem e vídeo. Ela garante recortes cirúrgicos, cores vibrantes e animações incrivelmente fluidas para suas figurinhas.
@@ -82,7 +82,7 @@ Veja a comparação real das figurinhas geradas pelo processamento padrão do pl
 ---
 
 ## 💜 Comunidade, Suporte & Transparência
-Diferente de outros bots automatizados que são abandonados pelos criadores, a Ninna Rata tem suporte e desenvolvimento constantes. A criadora (a Ninna) está sempre online no Twitter/X interagindo com os usuários, ouvindo feedbacks, implementando novos recursos e ajudando quem tem dúvidas.
+Diferente de outros bots automatizados que são abandonados pelos criadores, o Bot da Ninna Rata tem suporte e desenvolvimento constantes. A criadora (a Ninna) está sempre online no Twitter/X interagindo com os usuários, ouvindo feedbacks, implementando novos recursos e ajudando quem tem dúvidas.
 
 Se precisar de ajuda ou quiser sugerir alguma melhoria pro bot, é super fácil falar com ela:
 * 🐦 **Twitter/X:** [@ninnarata](https://x.com/ninnarata) (onde toda a mágica e conversas acontecem!)
@@ -94,13 +94,13 @@ Se precisar de ajuda ou quiser sugerir alguma melhoria pro bot, é super fácil 
 ## 🙋 Perguntas Frequentes (FAQ)
 
 ### Como usar o bot de figurinhas gratuito no WhatsApp?
-É super simples! Acesse [ninnarata.com.br](https://ninnarata.com.br) e clique no botão **Conversar no WhatsApp**. O chat será aberto automaticamente. Salve o contato da Ninna Rata no seu celular e envie uma imagem ou vídeo para receber sua figurinha.
+É super simples! Acesse [ninnarata.com.br](https://ninnarata.com.br) e clique no botão **Conversar no WhatsApp**. O chat será aberto automaticamente. Salve o contato do Bot da Ninna Rata no seu celular e envie uma imagem ou vídeo para receber sua figurinha.
 
 ### Como transformar vídeos do Twitter/X em figurinhas do WhatsApp?
-Copie o link do tweet que contém a mídia (imagem, vídeo ou GIF) e cole diretamente no chat do WhatsApp da Ninna Rata. O bot fará o download de forma automática e enviará a figurinha pronta de volta.
+Copie o link do tweet que contém a mídia (imagem, vídeo ou GIF) e cole diretamente no chat do WhatsApp do Bot da Ninna Rata. O bot fará o download de forma automática e enviará a figurinha pronta de volta.
 
 ### O bot de figurinhas é seguro? Minhas fotos ficam salvas?
-Sim, é 100% seguro e em conformidade com a LGPD. As mídias que você envia para a Ninna Rata são baixadas temporariamente apenas para realizar a conversão e são deletadas permanentemente do servidor assim que a figurinha é enviada de volta. Nós não armazenamos arquivos dos usuários em prol da sua privacidade.
+Sim, é 100% seguro e em conformidade com a LGPD. As mídias que você envia para o Bot da Ninna Rata são baixadas temporariamente apenas para realizar a conversão e são deletadas permanentemente do servidor assim que a figurinha é enviada de volta. Nós não armazenamos arquivos dos usuários em prol da sua privacidade.
 
 ---
 © 2026 Ninna Rata. Todos os direitos reservados.
