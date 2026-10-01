@@ -86,8 +86,8 @@ Diferente de outros bots automatizados que são abandonados pelos criadores, o B
 
 Se precisar de ajuda ou quiser sugerir alguma melhoria pro bot, é super fácil falar com ela:
 * 🐦 **Twitter/X:** [@ninnarata](https://x.com/ninnarata) (onde toda a mágica e conversas acontecem!)
-* 📧 **E-mail de Suporte:** ninnarata@gmail.com
-* 💬 **Suporte Integrado:** Diretamente no formulário do nosso site.
+* 📧 **Contato:** ninnarata@gmail.com
+* 💬 **Suporte Integrado:** acesse https://www.ninnarata.com.br e clique no ícone de suporte localizado no canto inferior direito do site.
 
 ---
 
